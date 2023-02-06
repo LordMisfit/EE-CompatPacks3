@@ -10,7 +10,32 @@
 // Items are separated by a colon ( : )
 // If a flat/texture is not present in this list, then only the default sound will be
 // played when it is walked on.
-STEP_FLATSUNFAM = "";
+STEP_FLATSUNFAM = "BCEIL1:BCEIL2:BCEIL4:"
+									"DGRID1:DGRID2:DGRID3:DGRID4:DGRID5:DGRID6:DGRID7:DGRID8:"
+									"LGGRID1:"
+									""
+									""
+									""
+									""
+									""
+									""
+									""
+									"";
 
 // Sounds
-// STEP_DEFAULT = "step/default";
+// STEP_ = "";
+
+STEP_BCEIL1 = "step/hard";
+STEP_BCEIL2 = "step/hard";
+STEP_BCEIL4 = "step/hard";
+
+STEP_DGRID1 = "step/tile/a";
+STEP_DGRID2 = "step/hard";
+STEP_DGRID3 = "step/hard";
+STEP_DGRID4 = "step/tile/b";
+STEP_DGRID5 = "step/metal/b";
+STEP_DGRID6 = "step/hard";
+STEP_DGRID7 = "step/hard";
+STEP_DGRID8 = "step/hard";
+
+STEP_LGGRID1 = "step/hard";
