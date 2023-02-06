@@ -234,6 +234,26 @@ STEP_OKEYSB01 = "step/hard";
 STEP_OKEYSR01 = "step/hard";
 STEP_OKEYSY01 = "step/hard";
 
+// Elevators [INC]
+
+// Fire [INC]
+
+// Flesh [INC]
+
+// FleshTech [INC]
+
+// Gold [INC]
+
+// Gothic [INC]
+
+// Green [INC]
+
+// Hell_Metal [INC]
+
+// Hell_Misc [INC]
+
+// Hell_Windows [INC]
+
 // Light Grey
 STEP_0CONCB50 = "step/hard";
 STEP_0CONCU33 = "step/hard";
@@ -326,5 +346,27 @@ STEP_WFALL1 = "step/water";
 STEP_WFALL2 = "step/water";
 STEP_WFALL3 = "step/water";
 STEP_WFALL4 = "step/water";
+
+// Marble [INC]
+
+// Misc [INC]
+
+// Pipes [INC]
+
+// Purple [INC]
+
+// Red [INC]
+
+// Rock [INC]
+
+// Silver [INC]
+
+// Spacecraft [INC]
+
+// Switches [INC]
+
+// Tech [INC]
+
+// White [INC]
 
 // Unsorted
