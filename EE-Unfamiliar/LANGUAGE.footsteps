@@ -95,13 +95,25 @@ STEP_FLATSUNFAM = "BC_01:BC_02:"
 									"SEWER1:SEWER2:SEWER3:SEWER4:SEWER5:SEWER6:SEWER7:SEWER8:"
 									"WFALL1:WFALL2:WFALL3:WFALL4:"
 									""
+									""
+									""
+									""
 									"DRSILV16:DRSILV17:STRIM1:"
+									""
+									""
+									""
 									""
 									"0MBRLQ00:CONCRETE:OCONCA01:OCONCA15:OCONCA22:OCONCA23:OCONCA30:OCONCA33:OCONCA34:OCONCA40:OCONCA43:OCONCA44:OCONCA48:OCONCA49:"
 									"WHITEF1:WHITEF2:WHITEF3:WHITEF4:WSTEP:"
 									"SPCR_1:SPCR_2:SPCR_3:SPCR_4:SPCR_5:SPCR_6:SPCR_7:SPCR_8:SPCR_9:SPCR_10:"
 									"EHELLSW1:EHELLSW2:HSWITCH1:HSWITCH2:HSWITCH3:HSWITCH4:SW1GOTH01:SW1GOTH02:SW2GOTH01:SW2GOTH02:"
-									""
+									"BROWNTEK:COMP_GRI:COMP03_1:"
+									"COMPN1:COMPN2:COMPN3:COMPN4:COMPN5:COMPN6:COMPN7:COMPN8:COMPN9:COMPN10:"
+									"COMPN11:COMPN12:COMPN13:COMPN14:COMPN15:COMPN16:COMPN17:COMPN18:COMPN19:COMPN20:"
+									"COMPN21:COMPN22:COMPN23:COMPN24:COMPN25:COMPN26:COMPN27:COMPN28:"
+									"LONGCOMP:NCMP_BS:NCMP_GS:OBASEK38:OBASEL3A:OBASEL38:OCOMPA00:OMECHA00:"
+									"OPIPEA01:OPIPEA03:OPIPEB02:OPIPEB04:OTECHI10:SCRN1:SCRN2:SCRN3:STW:"
+									"TEKN1:TEKN2:TEKN3:TEKN4:TEKWALL2:TEKWALL3:TEKWALL7:TEKWALLC:"
 									"0MBRLA00:0MBRLA38:0MBRLA39:0MBRLA48:0MBRLA58:0MBRLD01:0MBRLD44:0MBRLD90:0MBRLD91:0MBRLL01:0MBRLL33:0MBRLL39:0MBRLL44:0MBRLL59:0STONI02:"
 									"ADEL_P58:ADEL_R90:"
 									"BIM_01:BIM_02:BIM_03:BIM_04:BIM_05:BRNMRB1:BRNMRB2:BRNMRB3:BRNMRB4:BRNMRB5:BRNMRB6:BRNMRB7:"
@@ -915,7 +927,7 @@ STEP_TILE = "step/hard";
 // Red [INC]
 // STEP_ = "";
 
-// Rock [INC]
+// Rock
 STEP_0LAVAA01 = "step/lava";
 STEP_0LAVAA02 = "step/lava";
 STEP_0LAVAB01 = "step/lava";
@@ -1089,8 +1101,69 @@ STEP_SW1GOTH02 = "step/metal/b";
 STEP_SW2GOTH01 = "step/metal/b";
 STEP_SW2GOTH02 = "step/metal/b";
 
-// Tech [INC]
-// STEP_ = "";
+// Tech
+STEP_BROWNTEK = "step/metal/a";
+STEP_COMP_GRI = "step/metal/a";
+STEP_COMP03_1 = "step/metal/a";
+STEP_COMP03_B = "step/metal/a";
+STEP_COMP03_G = "step/metal/a";
+STEP_COMP03_P = "step/metal/a";
+STEP_COMP03_R = "step/metal/a";
+STEP_COMP03_W = "step/metal/a";
+STEP_COMP03_Y = "step/metal/a";
+STEP_COMPN1 = "step/metal/a";
+STEP_COMPN2 = "step/metal/a";
+STEP_COMPN3 = "step/metal/a";
+STEP_COMPN4 = "step/metal/a";
+STEP_COMPN5 = "step/metal/a";
+STEP_COMPN6 = "step/metal/a";
+STEP_COMPN7 = "step/metal/a";
+STEP_COMPN8 = "step/metal/a";
+STEP_COMPN9 = "step/metal/a";
+STEP_COMPN10 = "step/metal/a";
+STEP_COMPN11 = "step/metal/a";
+STEP_COMPN12 = "step/metal/a";
+STEP_COMPN13 = "step/metal/a";
+STEP_COMPN14 = "step/metal/a";
+STEP_COMPN15 = "step/metal/a";
+STEP_COMPN16 = "step/metal/a";
+STEP_COMPN17 = "step/metal/a";
+STEP_COMPN18 = "step/metal/a";
+STEP_COMPN19 = "step/metal/a";
+STEP_COMPN20 = "step/metal/a";
+STEP_COMPN21 = "step/metal/a";
+STEP_COMPN22 = "step/metal/a";
+STEP_COMPN23 = "step/metal/a";
+STEP_COMPN24 = "step/metal/a";
+STEP_COMPN25 = "step/metal/a";
+STEP_COMPN26 = "step/metal/a";
+STEP_COMPN27 = "step/metal/a";
+STEP_COMPN28 = "step/metal/a";
+STEP_LONGCOMP = "step/metal/a";
+STEP_NCMP_BS = "step/metal/a";
+STEP_NCMP_GS = "step/metal/a";
+STEP_OBASEK38 = "step/metal/a";
+STEP_OBASEL3A = "step/metal/a";
+STEP_OBASEL38 = "step/metal/a";
+STEP_OCOMPA00 = "step/metal/a";
+STEP_OMECHA00 = "step/metal/a";
+STEP_OPIPEA01 = "step/metal/a";
+STEP_OPIPEA03 = "step/metal/a";
+STEP_OPIPEB02 = "step/metal/a";
+STEP_OPIPEB04 = "step/metal/a";
+STEP_OTECHI10 = "step/metal/a";
+STEP_SCRN1 = "step/metal/a";
+STEP_SCRN2 = "step/metal/a";
+STEP_SCRN3 = "step/metal/a";
+STEP_STW = "step/metal/a";
+STEP_TEKN1 = "step/metal/a";
+STEP_TEKN2 = "step/metal/a";
+STEP_TEKN3 = "step/metal/a";
+STEP_TEKN4 = "step/metal/a";
+STEP_TEKWALL2 = "step/metal/a";
+STEP_TEKWALL3 = "step/metal/a";
+STEP_TEKWALL7 = "step/metal/a";
+STEP_TEKWALLC = "step/metal/a";
 
 // White
 STEP_0MBRLQ00 = "step/hard";
