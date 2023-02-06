@@ -127,6 +127,20 @@ STEP_FLATSUNFAM = "BC_01:BC_02:"
 									"OMRBLP90:OMRBLP91:OMRBLQ92:OMRBLQ93:OMRBLQ94:OMRBLQ95:OMRBLQ96:OMRBLQ97:"
 									"OPALCB23:OPALCB28:OPALCB29:OPALCC28:OPALCC29:OPALCC43:OPALCD23:OPALCD28:OPALCD49:"
 									"PMARB1:PMARB2:PMARB3:PMARB4:PMARB5:PMARB6:PMARB7:STONEW1:STWALL:TILE:"
+									"0LAVAA01:0LAVAA02:0LAVAB01:0ROCKC01:0ROCKC02:0ROCKD05:0ROCKL10:0ROCKL11:0ROCKL12:0STONA03:0STONH03:"
+									"ADEL_B22:ALTAQUA:AROCK1:AROCK2:AROCK3:AROCK4:AROCK5:AROCK6:ASHPHALT:CAMO1:CAMO4:CAMO5:CRACKLE9:"
+									"DARKROCK:DRROCK01:DRROCK02:DRROCK03:DRROCK04:DRROCK05:DRROCK06:DRROCK07:DRROCK08:"
+									"E3M1R1:E3M1R2:E3M8R1:E3M8R2:E3M8R3:E3M8R4:E3M8R5:EVRGL_R1:EVRGL_R2:EVRGL_R3:EVRGL_R4:EVRGL_R5:EVRGL_R6:EVRGL_R7:EVRGL_R8:"
+									"MOSROK2:MOSSROCK:MOULD:MUD:NATROCK:"
+									"NROCK1:NROCK2:NROCK3:NROCK4:NROCK5:NROCK6:NROCK7:NROCK8:NROCK9:NROCK10:"
+									"NROCK11:NROCK12:NROCK13:NROCK14:NROCK15:NROCK16:NROCK17:NROCK18:NROCK19:NROCK20:"
+									"NROCK21:NROCK22:NROCK23:NROCK24:NROCK25:NROCK26:NROCK27:NROCK28:NROCK29:NROCK30:"
+									"NROCK31:NROCK32:NROCK33:NROCK34:NROCK35:NROCK36:NROCK37:NROCK38:NROCK39:NROCK40:"
+									"NROCK41:NROCK42:NROCK43:NROCK44:NROCK45:NROCK46:NROCK47:NROCK48:NROCK49:NROCK50:"
+									"NROCK51:NROCK52:NROCK53:NROCK54:NROCK55:NROCK56:NROCK57:NROCK58:NROCK59:NROCK60:"
+									"NROCK61:NROCK62:NROCK64:NROCK65:NROCK66:NROCK67:NROCK68:NROCK69:NROCK70:"
+									"OHELLD01:OROCKD04:OROCKD05:OROCKO2A:OROCKO2B:OROCKO2C:OROCKO2D:OROCKO3A:OROCKO3B:OROCKO3C:OROCKO3D:"
+									"REDROCK:ROCK:ROCK3B:ROCK16:ROCK18:ROCK19:ROCK20:ROCK31:VINES1:"
 									"";
 
 // Biege
@@ -902,7 +916,149 @@ STEP_TILE = "step/hard";
 // STEP_ = "";
 
 // Rock [INC]
-// STEP_ = "";
+STEP_0LAVAA01 = "step/lava";
+STEP_0LAVAA02 = "step/lava";
+STEP_0LAVAB01 = "step/lava";
+STEP_0ROCKC01 = "step/rock";
+STEP_0ROCKC02 = "step/rock";
+STEP_0ROCKD05 = "step/rock";
+STEP_0ROCKL10 = "step/gravel";
+STEP_0ROCKL11 = "step/gravel";
+STEP_0ROCKL12 = "step/gravel";
+STEP_0STONA03 = "step/rock";
+STEP_0STONH03 = "step/rock";
+STEP_ADEL_B22 = "step/rock";
+STEP_ALTAQUA = "step/gravel";
+STEP_AROCK1 = "step/rock";
+STEP_AROCK2 = "step/rock";
+STEP_AROCK3 = "step/rock";
+STEP_AROCK4 = "step/rock";
+STEP_AROCK5 = "step/rock";
+STEP_AROCK6 = "step/rock";
+STEP_ASHPHALT = "step/rock";
+STEP_CAMO1 = "step/rock";
+STEP_CAMO4 = "step/rock";
+STEP_CAMO5 = "step/rock";
+STEP_CRACKLE9 = "step/rock";
+STEP_DARKROCK = "step/rock";
+STEP_DRROCK01 = "step/rock";
+STEP_DRROCK02 = "step/slimy";
+STEP_DRROCK03 = "step/rock";
+STEP_DRROCK04 = "step/slimy";
+STEP_DRROCK05 = "step/rock";
+STEP_DRROCK06 = "step/rock";
+STEP_DRROCK07 = "step/rock";
+STEP_DRROCK08 = "step/rock";
+STEP_E3M1R1 = "step/rock";
+STEP_E3M1R2 = "step/rock";
+STEP_E3M8R1 = "step/rock";
+STEP_E3M8R2 = "step/rock";
+STEP_E3M8R3 = "step/rock";
+STEP_E3M8R4 = "step/rock";
+STEP_E3M8R5 = "step/rock";
+STEP_EVRGL_R1 = "step/rock";
+STEP_EVRGL_R2 = "step/rock";
+STEP_EVRGL_R3 = "step/rock";
+STEP_EVRGL_R4 = "step/rock";
+STEP_EVRGL_R5 = "step/rock";
+STEP_EVRGL_R6 = "step/rock";
+STEP_EVRGL_R7 = "step/rock";
+STEP_EVRGL_R8 = "step/rock";
+STEP_MOSROK2 = "step/rock";
+STEP_MOSSROCK = "step/rock";
+STEP_MOULD = "step/rock";
+STEP_MUD = "step/mud";
+STEP_NATROCK = "step/mud";
+STEP_NROCK1 = "step/rock";
+STEP_NROCK2 = "step/rock";
+STEP_NROCK3 = "step/rock";
+STEP_NROCK4 = "step/lava";
+STEP_NROCK5 = "step/rock";
+STEP_NROCK6 = "step/rock";
+STEP_NROCK7 = "step/rock";
+STEP_NROCK8 = "step/rock";
+STEP_NROCK9 = "step/rock";
+STEP_NROCK10 = "step/rock";
+STEP_NROCK11 = "step/rock";
+STEP_NROCK12 = "step/rock";
+STEP_NROCK13 = "step/rock";
+STEP_NROCK14 = "step/rock";
+STEP_NROCK15 = "step/rock";
+STEP_NROCK16 = "step/dirt";
+STEP_NROCK17 = "step/rock";
+STEP_NROCK18 = "step/rock";
+STEP_NROCK19 = "step/rock";
+STEP_NROCK20 = "step/rock";
+STEP_NROCK21 = "step/rock";
+STEP_NROCK22 = "step/rock";
+STEP_NROCK23 = "step/rock";
+STEP_NROCK24 = "step/rock";
+STEP_NROCK25 = "step/rock";
+STEP_NROCK26 = "step/rock";
+STEP_NROCK27 = "step/lava";
+STEP_NROCK28 = "step/rock";
+STEP_NROCK29 = "step/lava";
+STEP_NROCK30 = "step/rock";
+STEP_NROCK31 = "step/rock";
+STEP_NROCK32 = "step/rock";
+STEP_NROCK33 = "step/rock";
+STEP_NROCK34 = "step/rock";
+STEP_NROCK35 = "step/rock";
+STEP_NROCK36 = "step/rock";
+STEP_NROCK37 = "step/rock";
+STEP_NROCK38 = "step/lava";
+STEP_NROCK39 = "step/rock";
+STEP_NROCK40 = "step/rock";
+STEP_NROCK41 = "step/rock";
+STEP_NROCK42 = "step/rock";
+STEP_NROCK43 = "step/rock";
+STEP_NROCK44 = "step/rock";
+STEP_NROCK45 = "step/rock";
+STEP_NROCK46 = "step/lava";
+STEP_NROCK47 = "step/rock";
+STEP_NROCK48 = "step/lava";
+STEP_NROCK49 = "step/lava";
+STEP_NROCK50 = "step/lava";
+STEP_NROCK51 = "step/lava";
+STEP_NROCK52 = "step/lava";
+STEP_NROCK53 = "step/lava";
+STEP_NROCK54 = "step/lava";
+STEP_NROCK55 = "step/lava";
+STEP_NROCK56 = "step/rock";
+STEP_NROCK57 = "step/rock";
+STEP_NROCK58 = "step/rock";
+STEP_NROCK59 = "step/rock";
+STEP_NROCK60 = "step/lava";
+STEP_NROCK61 = "step/rock";
+STEP_NROCK62 = "step/rock";
+STEP_NROCK64 = "step/rock";
+STEP_NROCK65 = "step/rock";
+STEP_NROCK66 = "step/lava";
+STEP_NROCK67 = "step/lava";
+STEP_NROCK68 = "step/rock";
+STEP_NROCK69 = "step/lava";
+STEP_NROCK70 = "step/lava";
+STEP_OHELLD01 = "step/rock";
+STEP_OROCKD04 = "step/rock";
+STEP_OROCKD05 = "step/rock";
+STEP_OROCKO2A = "step/lava";
+STEP_OROCKO2B = "step/lava";
+STEP_OROCKO2C = "step/lava";
+STEP_OROCKO2D = "step/lava";
+STEP_OROCKO3A = "step/lava";
+STEP_OROCKO3B = "step/lava";
+STEP_OROCKO3C = "step/lava";
+STEP_OROCKO3D = "step/lava";
+STEP_OROCKR03 = "step/rock";
+STEP_REDROCK = "step/rock";
+STEP_ROCK = "step/rock";
+STEP_ROCK3B = "step/rock";
+STEP_ROCK16 = "step/rock";
+STEP_ROCK18 = "step/rock";
+STEP_ROCK19 = "step/rock";
+STEP_ROCK20 = "step/rock";
+STEP_ROCK31 = "step/rock";
+STEP_VINES1 = "step/rock";
 
 // Silver
 STEP_DRSILV16 = "step/hard";
