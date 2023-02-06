@@ -30,6 +30,20 @@ STEP_FLATSUNFAM = "BC_01:BC_02:"
 									"BFLOOR1:BFLOOR2:BFLOOR3:BFLOOR4:BFLOOR5:BFLOOR6:BFLOOR7:BFLOOR8:BFLOOR9:BFLOOR10:BFLOOR11:BFLOOR12:BFLOOR13:"
 									"BLWL1:BLWL2:BLWL3:BLWL4:BLWL5:BLWL6:BLWL7:BLWL8:BLWL9:BSTP1:BSTP2:BSTP3:"
 									
+									"ODMNDA04:ODMNDB02:OHERRA01:OHEXAA09:OQSLPA03:"
+									"BIEGE1:N5BRWN01:N5BRWN02:N5STTN11:"
+									"OBASED40:OBASED50:OBASEK22:OBASEK33:OBASEK34:OBASEK37:OBASEK44:OBASEK48:OBASEK49:OBASES30:OBASES33:OBASES38:OBASES39:OFENCI01:"
+									"SW_WALL:"
+									
+									"0BNKRE00:0BNKRE33:0DMNDA05:"
+									"B_BASEF2:B_BASEW1:B_BASEW4:B_GREN02:B_GREN03:B_GREN04:B_GREN05:B_GREN07:"
+									"DARKG01:"
+									"GRNFLR1:GRNFLR2:GRNFLR3:GRNFLR4:GRNFLR5:GRNFLR6:GRNFLR7:GRNFLR8:GSTEP:"
+									"NGW1:NGW2:"
+									"OBASEF30:OBASEF33:OBASEF38:OBASEG90:OBNKRA33:OBNKRA40:"
+									"OBNKRE33:OBNKRE39:OBNKRE44:"
+									"SW_GREEN:WALL57_1:WALL57_2:WALL57_3:WALL57_4:"
+									
 									"0BKMTA04:0BKMTB01:0BKMTB02:0BKMTB03:0BKMTD01:0BKMTD33:0BKMTD57:0BKMTD75:0DMNDB07:0GRATD02:0IRONE03:0IRONE34:0IRONF90:STEP_0QSLPC01:"
 									"BLACKF1:BLACKF2:BLACKF3:BLACKF4:BLACKF5:BLACKF6:BLACKF7:BLACKW1:BLACKW2:BLACKW3:BLACKW4:BLACKW5:BLACKW6:BLACKW7:BLACKW8:BLFENCE:"
 									"DBLACK01:DBLACK02:DBLACK03:DBLACK04:DBLACK05:DBLACK07:DBLACK08:DBLACK09:DBLACK10:DBLACK11:DBLACK14:DBLACK15:DBLACK16:DBLACK17:"
@@ -64,20 +78,43 @@ STEP_FLATSUNFAM = "BC_01:BC_02:"
 									"SEWER1:SEWER2:SEWER3:SEWER4:SEWER5:SEWER6:SEWER7:SEWER8:"
 									"WFALL1:WFALL2:WFALL3:WFALL4:"
 									""
+									""
+									""
+									""
+									""
+									""
+									"0HEXAA01:0HEXAF04:"
 									"DGRID1:DGRID2:DGRID3:DGRID4:DGRID5:DGRID6:DGRID7:DGRID8:"
-									""
-									""
-									""
-									""
-									""
-									""
-									""
 									"";
 
 // Sounds
 // STEP_ = "";
 
 // Biege [Inc]
+STEP_ODMNDA04 = "step/hard";
+STEP_ODMNDB02 = "step/hard";
+STEP_OHERRA01 = "step/hard";
+STEP_OHEXAA09 = "step/hard";
+STEP_OQSLPA03 = "step/hard";
+STEP_BIEGE1 = "step/hard";
+STEP_N5BRWN01 = "step/hard";
+STEP_N5BRWN02 = "step/hard";
+STEP_N5STTN11 = "step/hard";
+STEP_OBASED40 = "step/hard";
+STEP_OBASED50 = "step/hard";
+STEP_OBASEK22 = "step/hard";
+STEP_OBASEK33 = "step/hard";
+STEP_OBASEK34 = "step/hard";
+STEP_OBASEK37 = "step/hard";
+STEP_OBASEK44 = "step/hard";
+STEP_OBASEK48 = "step/hard";
+STEP_OBASEK49 = "step/hard";
+STEP_OBASES30 = "step/hard";
+STEP_OBASES33 = "step/hard";
+STEP_OBASES38 = "step/hard";
+STEP_OBASES39 = "step/hard";
+STEP_OFENCI01 = "step/grate";
+STEP_SW_WALL = "step/hard";
 
 // Black
 STEP_0BKMTA04 = "step/metal/b";
@@ -172,7 +209,7 @@ STEP_BSTP3 = "step/hard";
 
 // Brick [INC]
 
-// Brown [INC]
+// Brown
 STEP_0BASEK33 = "step/metal/a";
 STEP_0BASEK37 = "step/metal/a";
 STEP_0BASEK44 = "step/metal/a";
@@ -242,6 +279,8 @@ STEP_GC_03 = "step/wood";
 STEP_GC_04 = "step/wood";
 
 // Dark Grey [INC]
+STEP_0HEXAA01 = "step/tile/a";
+STEP_0HEXAF04 = "step/tile/a";
 STEP_DGRID1 = "step/tile/a";
 STEP_DGRID2 = "step/hard";
 STEP_DGRID3 = "step/hard";
@@ -304,7 +343,44 @@ STEP_OKEYSY01 = "step/hard";
 
 // Gothic [INC]
 
-// Green [INC]
+// Green
+STEP_0BNKRE00 = "step/hard";
+STEP_0BNKRE33 = "step/hard";
+STEP_0DMNDA05 = "step/hard";
+STEP_B_BASEF2 = "step/hard";
+STEP_B_BASEW1 = "step/hard";
+STEP_B_BASEW4 = "step/hard";
+STEP_B_GREN02 = "step/hard";
+STEP_B_GREN03 = "step/hard";
+STEP_B_GREN04 = "step/hard";
+STEP_B_GREN05 = "step/hard";
+STEP_B_GREN07 = "step/hard";
+STEP_DARKG01 = "step/metal/a";
+STEP_GRNFLR1 = "step/hard";
+STEP_GRNFLR2 = "step/hard";
+STEP_GRNFLR3 = "step/hard";
+STEP_GRNFLR4 = "step/hard";
+STEP_GRNFLR5 = "step/hard";
+STEP_GRNFLR6 = "step/hard";
+STEP_GRNFLR7 = "step/hard";
+STEP_GRNFLR8 = "step/hard";
+STEP_GSTEP = "step/hard";
+STEP_NGW1 = "step/metal/a";
+STEP_NGW2 = "step/metal/a";
+STEP_OBASEF30 = "step/hard";
+STEP_OBASEF33 = "step/hard";
+STEP_OBASEF38 = "step/hard";
+STEP_OBASEG90 = "step/metal/a";
+STEP_OBNKRA33 = "step/hard";
+STEP_OBNKRA40 = "step/hard";
+STEP_OBNKRE33 = "step/metal/a";
+STEP_OBNKRE39 = "step/metal/a";
+STEP_OBNKRE44 = "step/metal/a";
+STEP_SW_GREEN = "step/hard";
+STEP_WALL57_1 = "step/hard";
+STEP_WALL57_2 = "step/hard";
+STEP_WALL57_3 = "step/hard";
+STEP_WALL57_4 = "step/hard";
 
 // Hell_Metal [INC]
 
