@@ -43,6 +43,8 @@ version "3.7"
 */
 ///DECORATIONS///
 
+#include "ZScript/Decorations/Sparks.zs"
+#include "ZScript/Decorations/Steam.zs"
 #include "ZScript/Decorations/Pillars.zs"
 #include "ZScript/Decorations/Columns.zs"
 #include "ZScript/Decorations/Stalagmites.zs"
